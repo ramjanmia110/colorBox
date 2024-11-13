@@ -1,0 +1,188 @@
+/* *{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    width: auto;
+    background: rgb(201, 199, 199);
+    padding: 20px;
+    box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.3);
+    border-radius: 6px;
+    height: auto;
+}
+
+button{
+    padding: 10px 20px;
+    border: none;
+    margin: 10px;
+    font-size: 18px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.3);
+    cursor: pointer;
+    outline: none;
+}
+
+#box{
+    width: 400px;
+    height: 250px;
+    background: tomato;
+    margin: 60px auto;
+    box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn1 {
+    background: black;
+    color: white;
+}
+ */
+
+
+ * {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: auto;
+    background: rgb(201, 199, 199);
+    padding: 20px;
+    box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.3);
+    border-radius: 6px;
+    height: auto;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    margin: 10px;
+    font-size: 18px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.3);
+    cursor: pointer;
+    outline: none;
+    
+}
+
+#box {
+    width: 400px;
+    height: 250px;
+    background: tomato;
+    margin: 60px auto;
+    box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn1{
+    background: black;
+    color: white;
+}
+
+.btn2{
+    background: white;
+}
+
+.btn3{
+    background: red;
+    color: white;
+}
+
+.btn4{
+    background: blue;
+    color: white;
+}
+
+.btn5{
+    background:yellow;
+}
+
+.btn6{
+    background:green;
+    color: white;
+}
+
+.btn7{
+    background:orange;
+    color: white;
+}
+
+.btn8{
+    background: pink;
+}
+
+.btn9{
+    background: purple;
+    color: white;
+}
+
+.btn10{
+    background: brown;
+    color: white;
+}
+
+.reset{
+    width: 20%;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+/* Add color classes */
+.black {
+    background-color: black !important;
+}
+
+.white {
+    background-color: white !important;
+}
+
+.red {
+    background-color: red !important;
+}
+
+.blue {
+    background-color: blue !important;
+}
+
+.yellow {
+    background-color: yellow !important;
+}
+
+.green {
+    background-color: green !important;
+}
+
+.orange {
+    background-color: orange !important;
+}
+
+.pink {
+    background-color: pink !important;
+}
+
+.purple {
+    background-color: purple !important;
+}
+
+.brown {
+    background-color: brown !important;
+}
+
